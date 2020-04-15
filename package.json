@@ -1,0 +1,16 @@
+{
+  "name": "sa3-starterpack",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "git@github.com:rohithm1/frontendstarterpack-cs50.git",
+  "author": "Rohith Mandavilli <Rohith.Mandavilli.22@Dartmouth.edu>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
